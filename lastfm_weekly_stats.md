@@ -1,100 +1,99 @@
-# Last.fm Weekly Statistics
+# Estadísticas semanales en Last.fm
 
-## Intersecciones entre Usuarios
+## Coincidencias entre Usuarios
 
 *Canciones*
 | Canción | Artista | Álbum | Usuarios |
 |---------|---------|-------|----------|
-| Palabras Para Julia | Los Suaves | Vispera De Todos Los Santos | Nubis84 (1), Lonsonxd (1) |
-| Hag | Storm Corrosion | Storm Corrosion | Music-is-Crap (1), Lonsonxd (1) |
-| Perfect Stranger | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (3), Music-is-Crap (1) |
-| Keep It, Hold It | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (2), Music-is-Crap (1) |
-| Between Angels And Insects | Papa Roach | Infest | BipolarMuzik (1), Music-is-Crap (1) |
-| 24hr dog | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| Eusexua | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (4), Music-is-Crap (1) |
 | Sticky | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| Strip The Soul - 2017 Remaster | Porcupine Tree | In Absentia (Remastered) | Frikomid (1), Lonsonxd (1) |
-| Girl Feels Good | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| Con las trenzas de tu pelo | Hora Zulu | Creer Querer, Querer Creer | Nubis84 (1), Lonsonxd (1) |
-| WANDERLUST | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (1) |
-| drums of death | FKA twigs | Eusexua | Frikomid (1), Music-is-Crap (1) |
-| Way Out of Here | Porcupine Tree | Fear of a Blank Planet | BipolarMuzik (1), Lonsonxd (1) |
-| Sleep Together | Porcupine Tree | Fear of a Blank Planet | BipolarMuzik (1), Lonsonxd (1) |
-| Brain Damage | Pink Floyd | The Dark Side of the Moon | Rocky_stereo (1), Lonsonxd (1) |
-| Childlike Things | FKA twigs | Eusexua | Frikomid (2), Music-is-Crap (1) |
 | China Girl - 2018 remaster | David Bowie | Let's Dance (2018 remaster) | Frikomid (4), Lonsonxd (1) |
-| Striptease | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (7), Music-is-Crap (1) |
 | Room of Fools | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| Promesas que no valen nada | Los Piratas | Poligamia | Nubis84 (1), Lonsonxd (1) |
+| Sleep Together | Porcupine Tree | Fear of a Blank Planet | BipolarMuzik (1), Lonsonxd (1) |
+| Con las trenzas de tu pelo | Hora Zulu | Creer Querer, Querer Creer | Nubis84 (1), Lonsonxd (1) |
+| 24hr dog | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
+| Girl Feels Good | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
+| Strip The Soul - 2017 Remaster | Porcupine Tree | In Absentia (Remastered) | Frikomid (1), Lonsonxd (1) |
+| WANDERLUST | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (1) |
+| Palabras Para Julia | Los Suaves | Vispera De Todos Los Santos | Nubis84 (1), Lonsonxd (1) |
+| Striptease | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (7), Music-is-Crap (1) |
+| Between Angels And Insects | Papa Roach | Infest | BipolarMuzik (1), Music-is-Crap (1) |
+| Childlike Things | FKA twigs | Eusexua | Frikomid (2), Music-is-Crap (1) |
+| Brain Damage | Pink Floyd | The Dark Side of the Moon | Rocky_stereo (1), Lonsonxd (1) |
+| Keep It, Hold It | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (2), Music-is-Crap (1) |
+| Way Out of Here | Porcupine Tree | Fear of a Blank Planet | BipolarMuzik (1), Lonsonxd (1) |
+| Perfect Stranger | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (3), Music-is-Crap (1) |
+| drums of death | FKA twigs | Eusexua | Frikomid (1), Music-is-Crap (1) |
 | So payaso | Extremoduro | Agila | Nubis84 (1), Lonsonxd (1) |
+| Hag | Storm Corrosion | Storm Corrosion | Music-is-Crap (1), Lonsonxd (1) |
+| Promesas que no valen nada | Los Piratas | Poligamia | Nubis84 (1), Lonsonxd (1) |
+| Eusexua | FKA twigs | Eusexua | EliasJ72 (1), Frikomid (4), Music-is-Crap (1) |
 
 *Álbumes*
 | Álbum | Artista | Usuarios |
 |-------|---------|----------|
-|  | Morcheeba | Nubis84 (15), EliasJ72 (2), Frikomid (39), alberto_gu (67) |
-| Spit | Poppy | BipolarMuzik (1), Frikomid (1) |
-| In Absentia (Remastered) | Porcupine Tree | Frikomid (12), Lonsonxd (1) |
-| Let's Dance (2018 remaster) | David Bowie | Frikomid (4), Lonsonxd (2) |
-| Vispera De Todos Los Santos | Los Suaves | Nubis84 (1), Lonsonxd (1) |
-| Storm Corrosion | Storm Corrosion | Music-is-Crap (6), Lonsonxd (1) |
-| DeBÍ TiRAR MáS FOToS | Bad Bunny | Rocky_stereo (12), Frikomid (1) |
-| Creer Querer, Querer Creer | Hora Zulu | Nubis84 (1), Lonsonxd (4) |
-| Poligamia | Los Piratas | Nubis84 (1), Lonsonxd (1) |
-| Agila | Extremoduro | Nubis84 (4), Lonsonxd (1) |
+|  | Music for Work | Nubis84 (15), EliasJ72 (2), Frikomid (39), alberto_gu (66) |
 | My Beautiful Dark Twisted Fantasy | Kanye West | EliasJ72 (1), alberto_gu (2) |
-| Eusexua | FKA twigs | EliasJ72 (11), Frikomid (24), Music-is-Crap (10) |
-| Significant Other | Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
-| Mellon Collie and the Infinite Sadness (Deluxe Edition) | The Smashing Pumpkins | Rocky_stereo (1), Lonsonxd (1) |
+| Storm Corrosion | Storm Corrosion | Music-is-Crap (6), Lonsonxd (1) |
+| Poligamia | Los Piratas | Nubis84 (1), Lonsonxd (1) |
+| Creer Querer, Querer Creer | Hora Zulu | Nubis84 (1), Lonsonxd (4) |
 | Fear of a Blank Planet | Porcupine Tree | BipolarMuzik (6), Lonsonxd (2) |
+| Significant Other | Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
+| Eusexua | FKA twigs feat. North West | EliasJ72 (11), Frikomid (24), Music-is-Crap (10) |
+| Mellon Collie and the Infinite Sadness (Deluxe Edition) | The Smashing Pumpkins | Rocky_stereo (1), Lonsonxd (1) |
+| Vispera De Todos Los Santos | Los Suaves | Nubis84 (1), Lonsonxd (1) |
 | Infest | Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
 | The Dark Side of the Moon | Pink Floyd | Rocky_stereo (7), Lonsonxd (2) |
+| Let's Dance (2018 remaster) | David Bowie | Frikomid (4), Lonsonxd (2) |
+| DeBÍ TiRAR MáS FOToS | Bad Bunny | Rocky_stereo (12), Frikomid (1) |
+| Agila | Extremoduro | Nubis84 (4), Lonsonxd (1) |
+| In Absentia (Remastered) | Porcupine Tree | Frikomid (12), Lonsonxd (1) |
 
 *Artistas*
 | Artista | Usuarios |
 |---------|----------|
-| Porcupine Tree | BipolarMuzik (6), Frikomid (14), Lonsonxd (7) |
-| Daft Punk | sdecandelario (2), EliasJ72 (1) |
-| Squid | sdecandelario (1), Frikomid (1) |
-| Queen | alberto_gu (1), Lonsonxd (2) |
-| Bad Bunny | Rocky_stereo (13), Frikomid (2) |
-| Los Piratas | Nubis84 (1), Lonsonxd (1) |
-| Korn | BipolarMuzik (3), EliasJ72 (2) |
-| Enslaved | sdecandelario (1), Lonsonxd (1) |
-| Soundgarden | sdecandelario (1), Lonsonxd (4) |
-| Linkin Park | sdecandelario (2), EliasJ72 (2) |
-| Danny Brown | EliasJ72 (9), alberto_gu (1) |
-| The Chemical Brothers | sdecandelario (2), Music-is-Crap (1) |
-| Kanye West | EliasJ72 (4), alberto_gu (2) |
-| Storm Corrosion | Music-is-Crap (6), Lonsonxd (1) |
-| Robe | Nubis84 (7), Lonsonxd (3) |
-| Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
-| King Crimson | EliasJ72 (1), Lonsonxd (7) |
-| Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
-| A$AP Rocky | EliasJ72 (1), Rocky_stereo (35), Frikomid (1) |
-| Katatonia | BipolarMuzik (3), Lonsonxd (7) |
-| Nine Inch Nails | EliasJ72 (1), Lonsonxd (2) |
-| Justice | sdecandelario (2), alberto_gu (1) |
-| Nick Cave & the Bad Seeds | Nubis84 (3), alberto_gu (1) |
-| The Doors | Rocky_stereo (1), Lonsonxd (2) |
-| Lana Del Rey | Frikomid (2), alberto_gu (1) |
-| Extremoduro | Nubis84 (17), Lonsonxd (1) |
-| Pink Floyd | BipolarMuzik (11), Rocky_stereo (9), Lonsonxd (5) |
-| Judas Priest | sdecandelario (14), Music-is-Crap (9), Lonsonxd (1) |
-| Los Suaves | Nubis84 (1), Lonsonxd (6) |
-| JPEGMAFIA | EliasJ72 (2), alberto_gu (1) |
 | The Horrors | sdecandelario (1), Frikomid (16) |
-| Sonic Youth | alberto_gu (1), Lonsonxd (2) |
-| Hora Zulu | Nubis84 (1), Lonsonxd (16) |
-| David Bowie | Frikomid (4), Lonsonxd (33) |
-| Jimi Hendrix | Nubis84 (6), Lonsonxd (1) |
+| Jeff Buckley | Rocky_stereo (1), Lonsonxd (1) |
+| Soundgarden | sdecandelario (1), Lonsonxd (4) |
 | Dream Theater | Nubis84 (5), Lonsonxd (1) |
+| Korn | BipolarMuzik (3), EliasJ72 (2) |
+| Danny Brown | EliasJ72 (9), alberto_gu (1) |
+| Kanye West | EliasJ72 (4), alberto_gu (2) |
+| JPEGMAFIA | EliasJ72 (2), alberto_gu (1) |
+| Storm Corrosion | Music-is-Crap (6), Lonsonxd (1) |
+| Lana Del Rey | Frikomid (2), alberto_gu (1) |
+| Queen | alberto_gu (1), Lonsonxd (2) |
+| Nine Inch Nails | EliasJ72 (1), Lonsonxd (2) |
+| Daft Punk | sdecandelario (2), EliasJ72 (1) |
+| Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
+| The Doors | Rocky_stereo (1), Lonsonxd (2) |
+| Los Piratas | Nubis84 (1), Lonsonxd (1) |
 | FKA twigs | EliasJ72 (9), Frikomid (34), Music-is-Crap (10) |
+| Squid | sdecandelario (1), Frikomid (1) |
+| Bad Bunny | Rocky_stereo (13), Frikomid (2) |
+| Los Suaves | Nubis84 (1), Lonsonxd (6) |
+| Hora Zulu | Nubis84 (1), Lonsonxd (16) |
+| Nick Cave & the Bad Seeds | Nubis84 (3), alberto_gu (1) |
+| Aphex Twin | EliasJ72 (1), Music-is-Crap (25) |
+| Katatonia | BipolarMuzik (3), Lonsonxd (7) |
+| A$AP Rocky | EliasJ72 (1), Rocky_stereo (35), Frikomid (1) |
+| Enslaved | sdecandelario (1), Lonsonxd (1) |
+| Porcupine Tree | BipolarMuzik (6), Frikomid (14), Lonsonxd (7) |
+| Judas Priest | sdecandelario (14), Music-is-Crap (9), Lonsonxd (1) |
+| Sonic Youth | alberto_gu (1), Lonsonxd (2) |
+| Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
+| The Chemical Brothers | sdecandelario (2), Music-is-Crap (1) |
+| David Bowie | Frikomid (4), Lonsonxd (33) |
+| Charli XCX | EliasJ72 (10), Frikomid (3) |
+| Pink Floyd | BipolarMuzik (11), Rocky_stereo (9), Lonsonxd (5) |
+| King Crimson | EliasJ72 (1), Lonsonxd (7) |
 | The Smashing Pumpkins | Rocky_stereo (1), Lonsonxd (1) |
 | Faithless | sdecandelario (1), alberto_gu (1) |
 | Alcest | BipolarMuzik (11), Lonsonxd (1) |
-| Charli XCX | EliasJ72 (10), Frikomid (3) |
-| Jeff Buckley | Rocky_stereo (1), Lonsonxd (1) |
-| Aphex Twin | EliasJ72 (1), Music-is-Crap (25) |
+| Robe | Nubis84 (7), Lonsonxd (3) |
+| Extremoduro | Nubis84 (17), Lonsonxd (1) |
+| Jimi Hendrix | Nubis84 (6), Lonsonxd (1) |
+| Linkin Park | sdecandelario (2), EliasJ72 (2) |
+| Justice | sdecandelario (2), alberto_gu (1) |
 ## Top 10 para paqueradejere
 
 *Top Artistas*
