@@ -5,107 +5,107 @@
 *Canciones*
 | Canción | Álbum | Usuarios |
 |---------|-------|----------|
-| 18 Volcanoes | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
-| Hammer Room | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
-| Striptease | Eusexua | EliasJ72 (1), Frikomid (7), Music-is-Crap (1) |
-| Perfect Stranger | Eusexua | EliasJ72 (1), Frikomid (3), Music-is-Crap (1) |
-| Eusexua | Eusexua | EliasJ72 (1), Frikomid (4), Music-is-Crap (1) |
-| Room of Fools | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| 24hr dog | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
 | Tuve Tu Amor | Piano bar | alberto_gu (1), GabredMared (1) |
-| drums of death | Eusexua | Frikomid (1), Music-is-Crap (1) |
-| Keep It, Hold It | Eusexua | EliasJ72 (1), Frikomid (2), Music-is-Crap (1) |
-| Between Angels And Insects | Infest | BipolarMuzik (1), Music-is-Crap (1) |
-| Hi Chaos | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
-| WANDERLUST | Eusexua | EliasJ72 (1), Frikomid (1) |
-| Ojos De Video Tape | Clics modernos | alberto_gu (1), GabredMared (2) |
-| Fact Boy | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
-| Fanzine Made Of Flesh | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
-| Raros Peinados Nuevos | Piano bar | alberto_gu (3), GabredMared (1) |
-| Girl Feels Good | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| Sticky | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| Childlike Things | Eusexua | Frikomid (2), Music-is-Crap (1) |
-| Piano Bar | Piano bar | alberto_gu (3), GabredMared (1) |
-| Pale Vegan Hip Pain | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
-| What Kind Of Mix Is This? | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
-| Promesas Sobre El Bidet | Piano bar | alberto_gu (3), GabredMared (2) |
-| Demoliendo Hoteles | Piano bar | alberto_gu (3), GabredMared (2) |
+| 24hr dog | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
 | If You Find This World Bad, You Should See Some Of The Others | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
-| Lion Rumpus | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
-| Nos Siguen Pegando Abajo | Clics modernos | alberto_gu (3), GabredMared (6) |
 | God Gets You Back | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
+| Sticky | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
+| Promesas Sobre El Bidet | Piano bar | alberto_gu (3), GabredMared (2) |
+| Ojos De Video Tape | Clics modernos | alberto_gu (1), GabredMared (2) |
+| Childlike Things | Eusexua | Frikomid (2), Music-is-Crap (1) |
+| Keep It, Hold It | Eusexua | EliasJ72 (1), Frikomid (2), Music-is-Crap (1) |
+| Room of Fools | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
+| Eusexua | Eusexua | EliasJ72 (1), Frikomid (4), Music-is-Crap (1) |
+| What Kind Of Mix Is This? | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
+| Lion Rumpus | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
+| 18 Volcanoes | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
+| Perfect Stranger | Eusexua | EliasJ72 (1), Frikomid (3), Music-is-Crap (1) |
+| Piano Bar | Piano bar | alberto_gu (3), GabredMared (1) |
+| Between Angels And Insects | Infest | BipolarMuzik (1), Music-is-Crap (1) |
+| WANDERLUST | Eusexua | EliasJ72 (1), Frikomid (1) |
+| Striptease | Eusexua | EliasJ72 (1), Frikomid (7), Music-is-Crap (1) |
+| Raros Peinados Nuevos | Piano bar | alberto_gu (3), GabredMared (1) |
+| Hi Chaos | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
+| Fact Boy | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
+| Nos Siguen Pegando Abajo | Clics modernos | alberto_gu (3), GabredMared (6) |
+| Hammer Room | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
+| Fanzine Made Of Flesh | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
+| drums of death | Eusexua | Frikomid (1), Music-is-Crap (1) |
+| Pale Vegan Hip Pain | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
+| Girl Feels Good | Eusexua | EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
+| Demoliendo Hoteles | Piano bar | alberto_gu (3), GabredMared (2) |
 
 *Álbumes*
 | Álbum | Artista | Usuarios |
 |-------|---------|----------|
-|  | 8 mile | Nubis84 (15), EliasJ72 (2), Frikomid (39), alberto_gu (69) |
-| DATA | Tainy | Rocky_stereo (1), GabredMared (3) |
-| Clics modernos | Charly García | alberto_gu (29), GabredMared (8) |
-| Skinty Fia | Fontaines D.C. | paqueradejere (1), sdecandelario (1) |
+|  | Agárrala, Pégala, Azótala | Nubis84 (15), EliasJ72 (2), Frikomid (39), alberto_gu (69) |
+| Spit | Kittie | BipolarMuzik (1), Frikomid (1) |
 | Piano bar | Charly García | alberto_gu (26), GabredMared (7) |
-| Eusexua | FKA Twigs feat. Koreless | EliasJ72 (11), Frikomid (24), Music-is-Crap (10) |
 | Vulnicura | Björk | Frikomid (1), GabredMared (1) |
-| Infest | Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
-| CALL ME IF YOU GET LOST | Tyler, the Creator | alberto_gu (1), GabredMared (1) |
-| Significant Other | Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
-| Grace | Jeff Buckley | Rocky_stereo (1), GabredMared (1) |
-| Un Verano Sin Ti | Bad Bunny | Rocky_stereo (1), GabredMared (2) |
-| DeBÍ TiRAR MáS FOToS | Bad Bunny | Rocky_stereo (12), Frikomid (1) |
-| BRAT | Charli XCX | Frikomid (1), GabredMared (2) |
-| Spit | Poppy | BipolarMuzik (1), Frikomid (1) |
 | The Bad Fire | Mogwai | paqueradejere (25), Music-is-Crap (10) |
+| Significant Other | Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
+| CALL ME IF YOU GET LOST | Tyler, the Creator | alberto_gu (1), GabredMared (1) |
+| Grace | Jeff Buckley | Rocky_stereo (1), GabredMared (1) |
+| Clics modernos | Charly García | alberto_gu (29), GabredMared (8) |
+| DATA | Tainy | Rocky_stereo (1), GabredMared (3) |
+| Un Verano Sin Ti | Bad Bunny | Rocky_stereo (1), GabredMared (2) |
+| Infest | Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
 | My Beautiful Dark Twisted Fantasy | Kanye West | EliasJ72 (1), alberto_gu (2) |
+| BRAT | Charli XCX | Frikomid (1), GabredMared (2) |
+| Eusexua | FKA twigs feat. North West | EliasJ72 (11), Frikomid (24), Music-is-Crap (10) |
+| Skinty Fia | Fontaines D.C. | paqueradejere (1), sdecandelario (1) |
+| DeBÍ TiRAR MáS FOToS | Bad Bunny | Rocky_stereo (12), Frikomid (1) |
 
 *Artistas*
 | Artista | Usuarios |
 |---------|----------|
-| Bad Bunny | Rocky_stereo (13), Frikomid (2), GabredMared (8) |
-| Pink Floyd | BipolarMuzik (11), Rocky_stereo (9) |
-| The Strokes | Nubis84 (1), GabredMared (12) |
-| FKA twigs | EliasJ72 (9), Frikomid (34), Music-is-Crap (10) |
-| Aphex Twin | EliasJ72 (1), Music-is-Crap (25) |
-| A$AP Rocky | EliasJ72 (1), Rocky_stereo (35), Frikomid (1) |
-| Daddy Yankee | alberto_gu (4), GabredMared (1) |
-| Weyes Blood | alberto_gu (2), GabredMared (2) |
-| Danny Brown | EliasJ72 (9), alberto_gu (1) |
-| Linkin Park | sdecandelario (2), EliasJ72 (2) |
-| Silvio Rodríguez | Frikomid (4), GabredMared (1) |
-| Charly García | alberto_gu (56), GabredMared (15) |
-| SILVIO RODRÍGUEZ | Frikomid (7), GabredMared (1) |
-| JPEGMAFIA | EliasJ72 (2), alberto_gu (2) |
-| Addison Rae | Frikomid (1), GabredMared (1) |
-| Justice | sdecandelario (2), alberto_gu (1) |
-| David Bowie | Frikomid (4), GabredMared (1) |
-| Charli XCX | EliasJ72 (10), Frikomid (3), GabredMared (5) |
-| Faithless | sdecandelario (1), alberto_gu (1) |
-| Tainy | Rocky_stereo (1), GabredMared (3) |
-| Shura | Frikomid (1), GabredMared (2) |
-| Kanye West | EliasJ72 (4), alberto_gu (2) |
-| Daft Punk | sdecandelario (2), EliasJ72 (1) |
-| Lana Del Rey | Frikomid (2), alberto_gu (1), GabredMared (10) |
-| The Chemical Brothers | sdecandelario (2), Music-is-Crap (1) |
-| King Crimson | EliasJ72 (1), GabredMared (9) |
-| Squid | sdecandelario (1), Frikomid (1) |
 | Korn | BipolarMuzik (3), EliasJ72 (2) |
-| Fontaines D.C. | paqueradejere (1), sdecandelario (1) |
-| Judas Priest | sdecandelario (14), Music-is-Crap (9) |
+| Ethel Cain | paqueradejere (2), Frikomid (4) |
+| Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
+| Daddy Yankee | alberto_gu (4), GabredMared (1) |
+| Mogwai | paqueradejere (25), Music-is-Crap (10) |
 | Gustavo Cerati | EliasJ72 (1), GabredMared (1) |
+| Linkin Park | sdecandelario (2), EliasJ72 (2) |
+| Justice | sdecandelario (2), alberto_gu (1) |
+| Danny Brown | EliasJ72 (9), alberto_gu (1) |
+| SILVIO RODRÍGUEZ | Frikomid (7), GabredMared (1) |
+| Rauw Alejandro | alberto_gu (1), GabredMared (4) |
+| Siouxsie and the Banshees | Frikomid (1), GabredMared (1) |
+| Addison Rae | Frikomid (1), GabredMared (1) |
+| Judas Priest | sdecandelario (14), Music-is-Crap (9) |
+| Perfume Genius | Frikomid (13), GabredMared (2) |
+| Faithless | sdecandelario (1), alberto_gu (1) |
+| JPEGMAFIA | EliasJ72 (2), alberto_gu (2) |
+| Silvio Rodríguez | Frikomid (4), GabredMared (1) |
 | IDLES | paqueradejere (11), sdecandelario (4) |
 | Tyler, the Creator | alberto_gu (1), GabredMared (1) |
-| The Horrors | sdecandelario (1), Frikomid (16) |
-| Jeff Buckley | Rocky_stereo (1), GabredMared (1) |
-| Björk | Frikomid (2), GabredMared (2) |
-| Mogwai | paqueradejere (25), Music-is-Crap (10) |
-| Rauw Alejandro | alberto_gu (1), GabredMared (4) |
-| Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
+| David Bowie | Frikomid (4), GabredMared (1) |
 | Nick Cave & the Bad Seeds | Nubis84 (3), alberto_gu (1) |
-| Lady Gaga | Frikomid (10), GabredMared (1) |
-| Ethel Cain | paqueradejere (2), Frikomid (4) |
+| Lana Del Rey | Frikomid (2), alberto_gu (1), GabredMared (10) |
+| Kanye West | EliasJ72 (4), alberto_gu (2) |
+| A$AP Rocky | EliasJ72 (1), Rocky_stereo (35), Frikomid (1) |
+| Weyes Blood | alberto_gu (2), GabredMared (2) |
+| Aphex Twin | EliasJ72 (1), Music-is-Crap (25) |
+| Daft Punk | sdecandelario (2), EliasJ72 (1) |
 | Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
+| The Horrors | sdecandelario (1), Frikomid (16) |
 | Porcupine Tree | BipolarMuzik (6), Frikomid (14) |
+| FKA twigs | EliasJ72 (9), Frikomid (34), Music-is-Crap (10) |
+| Shura | Frikomid (1), GabredMared (2) |
+| The Strokes | Nubis84 (1), GabredMared (12) |
+| Jeff Buckley | Rocky_stereo (1), GabredMared (1) |
+| Squid | sdecandelario (1), Frikomid (1) |
 | Blondie | Nubis84 (1), GabredMared (2) |
-| Perfume Genius | Frikomid (13), GabredMared (2) |
-| Siouxsie and the Banshees | Frikomid (1), GabredMared (1) |
+| King Crimson | EliasJ72 (1), GabredMared (9) |
+| Pink Floyd | BipolarMuzik (11), Rocky_stereo (9) |
+| Lady Gaga | Frikomid (10), GabredMared (1) |
+| The Chemical Brothers | sdecandelario (2), Music-is-Crap (1) |
+| Tainy | Rocky_stereo (1), GabredMared (3) |
+| Björk | Frikomid (2), GabredMared (2) |
+| Bad Bunny | Rocky_stereo (13), Frikomid (2), GabredMared (8) |
+| Fontaines D.C. | paqueradejere (1), sdecandelario (1) |
+| Charli XCX | EliasJ72 (10), Frikomid (3), GabredMared (5) |
+| Charly García | alberto_gu (56), GabredMared (15) |
 ## Top 10 para paqueradejere
 
 *Top Artistas*
