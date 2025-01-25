@@ -14,6 +14,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     description = "Hispano" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+    #hideToc = true
+    CSS = "assets/css/custom.css"
 
     front_page_content = ["posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
@@ -25,7 +27,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "Semanales", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 54},
+        {Name = "Mensuales", URL = "/mensual/", Pre = "Recent", HasChildren = true, Limit = 12},
+        {Name = "Anuales", URL = "/anual/", Pre = "Recent", HasChildren = true, Limit = 5},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
@@ -108,4 +112,5 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [taxonomies]
     series = 'series'
     tags = 'tags'
-
+#    mensual = 'mensual'
+#    anual = 'anual'
