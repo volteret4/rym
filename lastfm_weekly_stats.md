@@ -5,135 +5,191 @@
 *Canciones*
 | Canción | Artista | Álbum | Usuarios |
 |---------|---------|-------|----------|
-| Room of Fools | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| Eusexua | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (4), Music-is-Crap (1) |
-| Perfect Stranger | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (3), Music-is-Crap (1) |
-| Keep It, Hold It | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (2), Music-is-Crap (1) |
-| Sleep Together | Porcupine Tree | Fear of a Blank Planet | BipolarMuzik (1), Lonsonxd (1) |
-| Tuve Tu Amor | Charly García | Piano bar | alberto_gu (1), GabredMared (1) |
-| Childlike Things | FKA twigs | Eusexua | Frikomid (2), Music-is-Crap (1) |
-| Piano Bar | Charly García | Piano bar | alberto_gu (3), GabredMared (1) |
-| Ojos De Video Tape | Charly García | Clics modernos | alberto_gu (1), GabredMared (2) |
-| Striptease | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (7), Music-is-Crap (1) |
-| Hag | Storm Corrosion | Storm Corrosion | Music-is-Crap (1), Lonsonxd (1) |
-| Demoliendo Hoteles | Charly García | Piano bar | alberto_gu (3), GabredMared (2) |
-| Epitaph - Including "March For No Reason" And "Tomorrow And Tomorrow" | King Crimson | In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | GabredMared (2), Lonsonxd (1) |
-| Brain Damage | Pink Floyd | The Dark Side of the Moon | Rocky_stereo (1), Lonsonxd (1) |
-| Chaos Space Marine | Black Country, New Road | Ants From Up There | bloodinmyhand (1), GabredMared (10) |
-| drums of death | FKA twigs | Eusexua | Frikomid (1), Music-is-Crap (1) |
-| I Talk to the Wind | King Crimson | In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | GabredMared (1), Lonsonxd (1) |
-| Girl Feels Good | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| WANDERLUST | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (1) |
-| Way Out of Here | Porcupine Tree | Fear of a Blank Planet | BipolarMuzik (1), Lonsonxd (1) |
-| China Girl - 2018 remaster | David Bowie | Let's Dance (2018 remaster) | Frikomid (4), Lonsonxd (1) |
-| 21st Century Schizoid Man [Bonus Track] - Radio Version | King Crimson | In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | GabredMared (1), Lonsonxd (1) |
-| Between Angels And Insects | Papa Roach | Infest | BipolarMuzik (1), Music-is-Crap (1) |
-| The Court of the Crimson King - Including "The Return of the Fire Witch" and "The Dance of the Puppets" | King Crimson | In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | GabredMared (1), Lonsonxd (1) |
-| 24hr dog | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
-| Promesas Sobre El Bidet | Charly García | Piano bar | alberto_gu (3), GabredMared (2) |
-| Nos Siguen Pegando Abajo | Charly García | Clics modernos | alberto_gu (2), GabredMared (6) |
-| Strip The Soul - 2017 Remaster | Porcupine Tree | In Absentia (Remastered) | Frikomid (1), Lonsonxd (1) |
 | Sticky | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
+| Nos Siguen Pegando Abajo | Charly García | Clics modernos | alberto_gu (2), GabredMared (6) |
+| 18 Volcanoes | Mogwai | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
+| Lion Rumpus | Mogwai | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
+| drums of death | FKA twigs | Eusexua | Frikomid (1), Music-is-Crap (1) |
+| Fact Boy | Mogwai | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
+| So payaso | Extremoduro | Agila | Nubis84 (1), Lonsonxd (1) |
+| Brain Damage | Pink Floyd | The Dark Side of the Moon | Rocky_stereo (1), Lonsonxd (1) |
+| Sleep Together | Porcupine Tree | Fear of a Blank Planet | BipolarMuzik (1), Lonsonxd (1) |
+| Piano Bar | Charly García | Piano bar | alberto_gu (3), GabredMared (1) |
+| Hammer Room | Mogwai | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
+| Childlike Things | FKA twigs | Eusexua | Frikomid (2), Music-is-Crap (1) |
+| Girl Feels Good | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
+| Striptease | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (7), Music-is-Crap (1) |
+| punish | Ethel Cain | Perverts | paqueradejere (1), bloodinmyhand (7) |
+| Between Angels And Insects | Papa Roach | Infest | BipolarMuzik (1), Music-is-Crap (1) |
+| What Kind Of Mix Is This? | Mogwai | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
+| Keep It, Hold It | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (2), Music-is-Crap (1) |
+| Ojos De Video Tape | Charly García | Clics modernos | alberto_gu (1), GabredMared (2) |
+| 24hr dog | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
+| Chaos Space Marine | Black Country, New Road | Ants From Up There | bloodinmyhand (1), GabredMared (10) |
+| Perverts | Ethel Cain | Perverts | paqueradejere (1), bloodinmyhand (7) |
+| Promesas que no valen nada | Los Piratas | Poligamia | Nubis84 (1), Lonsonxd (1) |
+| Room of Fools | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (1), Music-is-Crap (1) |
+| Hag | Storm Corrosion | Storm Corrosion | Music-is-Crap (1), Lonsonxd (1) |
+| WANDERLUST | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (1) |
+| Demoliendo Hoteles | Charly García | Piano bar | alberto_gu (3), GabredMared (2) |
+| I Talk to the Wind | King Crimson | In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | GabredMared (1), Lonsonxd (1) |
+| Perfect Stranger | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (3), Music-is-Crap (1) |
+| Way Out of Here | Porcupine Tree | Fear of a Blank Planet | BipolarMuzik (1), Lonsonxd (1) |
+| Palabras Para Julia | Los Suaves | Vispera De Todos Los Santos | Nubis84 (1), Lonsonxd (1) |
+| 21st Century Schizoid Man [Bonus Track] - Radio Version | King Crimson | In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | GabredMared (1), Lonsonxd (1) |
+| Strip The Soul - 2017 Remaster | Porcupine Tree | In Absentia (Remastered) | Frikomid (1), Lonsonxd (1) |
+| China Girl - 2018 remaster | David Bowie | Let's Dance (2018 remaster) | Frikomid (4), Lonsonxd (1) |
+| If You Find This World Bad, You Should See Some Of The Others | Mogwai | The Bad Fire | paqueradejere (2), Music-is-Crap (1) |
+| Eusexua | FKA twigs | Eusexua | bloodinmyhand (1), EliasJ72 (1), Frikomid (4), Music-is-Crap (1) |
+| Con las trenzas de tu pelo | Hora Zulu | Creer Querer, Querer Creer | Nubis84 (1), Lonsonxd (1) |
+| Tuve Tu Amor | Charly García | Piano bar | alberto_gu (1), GabredMared (1) |
+| God Gets You Back | Mogwai | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
+| Fanzine Made Of Flesh | Mogwai | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
 | Raros Peinados Nuevos | Charly García | Piano bar | alberto_gu (3), GabredMared (1) |
+| The Court of the Crimson King - Including "The Return of the Fire Witch" and "The Dance of the Puppets" | King Crimson | In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | GabredMared (1), Lonsonxd (1) |
+| Hi Chaos | Mogwai | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
+| Epitaph - Including "March For No Reason" And "Tomorrow And Tomorrow" | King Crimson | In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | GabredMared (2), Lonsonxd (1) |
+| Promesas Sobre El Bidet | Charly García | Piano bar | alberto_gu (3), GabredMared (2) |
+| Pale Vegan Hip Pain | Mogwai | The Bad Fire | paqueradejere (3), Music-is-Crap (1) |
 
 *Álbumes*
 | Álbum | Artista | Usuarios |
 |-------|---------|----------|
-|  | Andres B Gu | EliasJ72 (2), Frikomid (39), alberto_gu (66) |
-| Storm Corrosion | Storm Corrosion | Music-is-Crap (6), Lonsonxd (1) |
-| My Beautiful Dark Twisted Fantasy | Kanye West | EliasJ72 (1), alberto_gu (2) |
-| Let's Dance (2018 remaster) | David Bowie | Frikomid (4), Lonsonxd (2) |
+|  | Lady Gaga | Nubis84 (15), EliasJ72 (2), Frikomid (39), alberto_gu (66) |
+| Triángulo de Amor Bizarro | Triángulo de Amor Bizarro | GabredMared (1), Lonsonxd (1) |
 | Fear of a Blank Planet | Porcupine Tree | BipolarMuzik (6), Lonsonxd (2) |
-| Grace | Jeff Buckley | Rocky_stereo (1), GabredMared (1) |
-| Ants From Up There | Black Country, New Road | bloodinmyhand (1), GabredMared (104) |
+| Skinty Fia | Fontaines D.C. | paqueradejere (1), sdecandelario (1) |
+| Vértigo | Sugarless | GabredMared (1), Lonsonxd (7) |
 | Piano bar | Charly García | alberto_gu (26), GabredMared (7) |
-| Eusexua | FKA twigs feat. North West | bloodinmyhand (11), EliasJ72 (11), Frikomid (24), Music-is-Crap (10) |
+| Storm Corrosion | Storm Corrosion | Music-is-Crap (6), Lonsonxd (1) |
+| In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | King Crimson | GabredMared (8), Lonsonxd (5) |
+| The Dark Side of the Moon | Pink Floyd | Rocky_stereo (7), Lonsonxd (2) |
+| Agila | Extremoduro | Nubis84 (4), Lonsonxd (1) |
 | In Absentia (Remastered) | Porcupine Tree | Frikomid (12), Lonsonxd (1) |
+| Ants From Up There | Black Country, New Road | bloodinmyhand (1), GabredMared (104) |
+| Eusexua | FKA Twigs feat. Koreless | bloodinmyhand (11), EliasJ72 (11), Frikomid (24), Music-is-Crap (10) |
+| Grace | Jeff Buckley | Rocky_stereo (1), GabredMared (1) |
+| Creer Querer, Querer Creer | Hora Zulu | Nubis84 (1), Lonsonxd (4) |
+| Perverts | Ethel Cain | paqueradejere (2), bloodinmyhand (62) |
 | BRAT | Charli XCX | Frikomid (1), GabredMared (2) |
 | CALL ME IF YOU GET LOST | Tyler, the Creator | alberto_gu (1), GabredMared (1) |
-| Triángulo de Amor Bizarro | Triángulo de Amor Bizarro | GabredMared (1), Lonsonxd (1) |
-| Vértigo | Fey | GabredMared (1), Lonsonxd (7) |
-| Vulnicura | Björk | Frikomid (1), GabredMared (1) |
-| Significant Other | Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
-| Infest | Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
-| DeBÍ TiRAR MáS FOToS | Bad Bunny | Rocky_stereo (12), Frikomid (1) |
+| The Bad Fire | Mogwai | paqueradejere (25), Music-is-Crap (10) |
+| Mellon Collie and the Infinite Sadness (Deluxe Edition) | The Smashing Pumpkins | Rocky_stereo (1), Lonsonxd (1) |
+| My Beautiful Dark Twisted Fantasy | Kanye West | EliasJ72 (1), alberto_gu (2) |
+| Clics modernos | Charly García | alberto_gu (28), GabredMared (8) |
+| Let's Dance (2018 remaster) | David Bowie | Frikomid (4), Lonsonxd (2) |
+| Vispera De Todos Los Santos | Los Suaves | Nubis84 (1), Lonsonxd (1) |
+| Poligamia | Los Piratas | Nubis84 (1), Lonsonxd (1) |
 | Aladdin Sane (2013 remaster) | David Bowie | GabredMared (1), Lonsonxd (5) |
 | Un Verano Sin Ti | Bad Bunny | Rocky_stereo (1), GabredMared (2) |
-| The Dark Side of the Moon | Pink Floyd | Rocky_stereo (7), Lonsonxd (2) |
-| Clics modernos | Charly García | alberto_gu (28), GabredMared (8) |
+| Significant Other | Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
+| DeBÍ TiRAR MáS FOToS | Bad Bunny | Rocky_stereo (12), Frikomid (1) |
 | DATA | Tainy | Rocky_stereo (1), GabredMared (3) |
-| Mellon Collie and the Infinite Sadness (Deluxe Edition) | The Smashing Pumpkins | Rocky_stereo (1), Lonsonxd (1) |
-| In The Court Of The Crimson King (Expanded & Remastered Original Album Mix) | King Crimson | GabredMared (8), Lonsonxd (5) |
+| Vulnicura | Björk | Frikomid (1), GabredMared (1) |
+| Infest | Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
 
 *Artistas*
 | Artista | Usuarios |
 |---------|----------|
-| Storm Corrosion | Music-is-Crap (6), Lonsonxd (1) |
-| Daddy Yankee | alberto_gu (4), GabredMared (1) |
-| The Doors | Rocky_stereo (1), Lonsonxd (2) |
-| Weyes Blood | alberto_gu (2), GabredMared (2) |
-| Tyler, the Creator | alberto_gu (1), GabredMared (1) |
-| Rauw Alejandro | alberto_gu (1), GabredMared (4) |
-| The Chemical Brothers | sdecandelario (2), Music-is-Crap (1) |
-| Alcest | BipolarMuzik (11), Lonsonxd (1) |
-| The Horrors | sdecandelario (1), Frikomid (16) |
-| Enslaved | sdecandelario (1), Lonsonxd (1) |
-| Kanye West | EliasJ72 (4), alberto_gu (2) |
-| Jeff Buckley | Rocky_stereo (1), GabredMared (1), Lonsonxd (1) |
-| The Smashing Pumpkins | Rocky_stereo (1), Lonsonxd (1) |
-| Faithless | sdecandelario (1), alberto_gu (1) |
-| Gustavo Cerati | EliasJ72 (1), GabredMared (1) |
-| Judas Priest | sdecandelario (14), Music-is-Crap (9), Lonsonxd (1) |
-| Swans | bloodinmyhand (39), GabredMared (1) |
-| Queen | alberto_gu (1), Lonsonxd (2) |
-| Björk | Frikomid (2), GabredMared (2) |
-| Charli XCX | EliasJ72 (10), Frikomid (3), GabredMared (5) |
-| A$AP Rocky | EliasJ72 (1), Rocky_stereo (35), Frikomid (1) |
-| Katatonia | BipolarMuzik (3), Lonsonxd (7) |
-| Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
-| JPEGMAFIA | EliasJ72 (2), alberto_gu (1) |
-| Soundgarden | sdecandelario (1), Lonsonxd (4) |
-| Daft Punk | sdecandelario (2), EliasJ72 (1) |
-| Korn | BipolarMuzik (3), EliasJ72 (2) |
 | Triángulo de Amor Bizarro | GabredMared (1), Lonsonxd (3) |
-| Black Country, New Road | bloodinmyhand (6), GabredMared (104) |
-| Lady Gaga | Frikomid (10), GabredMared (1) |
-| Silvio Rodríguez | Frikomid (4), GabredMared (1) |
-| Addison Rae | Frikomid (1), GabredMared (1) |
-| Charly García | alberto_gu (55), GabredMared (15) |
-| The Cure | GabredMared (1), Lonsonxd (20) |
-| Siouxsie and the Banshees | Frikomid (1), GabredMared (1) |
-| Bad Bunny | Rocky_stereo (13), Frikomid (2), GabredMared (8) |
-| Perfume Genius | Frikomid (13), GabredMared (2) |
-| Brian Eno | GabredMared (1), Lonsonxd (1) |
-| Linkin Park | sdecandelario (2), EliasJ72 (2) |
-| Ethel Cain | bloodinmyhand (62), Frikomid (4) |
-| Pink Floyd | BipolarMuzik (11), Rocky_stereo (9), Lonsonxd (5) |
-| King Crimson | EliasJ72 (1), GabredMared (9), Lonsonxd (7) |
-| Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
-| Aphex Twin | EliasJ72 (1), Music-is-Crap (25) |
-| Tainy | Rocky_stereo (1), GabredMared (3) |
-| Radiohead | GabredMared (1), Lonsonxd (1) |
-| Sonic Youth | alberto_gu (1), Lonsonxd (2) |
-| Justice | sdecandelario (2), alberto_gu (1) |
-| Porcupine Tree | BipolarMuzik (6), Frikomid (14), Lonsonxd (7) |
-| SILVIO RODRÍGUEZ | Frikomid (7), GabredMared (1) |
-| Nine Inch Nails | EliasJ72 (1), Lonsonxd (2) |
-| Lana Del Rey | Frikomid (2), alberto_gu (1), GabredMared (10) |
-| Shura | Frikomid (1), GabredMared (2) |
-| David Bowie | Frikomid (4), GabredMared (1), Lonsonxd (33) |
-| FKA twigs | bloodinmyhand (11), EliasJ72 (9), Frikomid (34), Music-is-Crap (10) |
-| Squid | sdecandelario (1), Frikomid (1) |
+| Nick Cave & the Bad Seeds | Nubis84 (3), alberto_gu (1) |
+| Mogwai | paqueradejere (25), Music-is-Crap (10) |
+| Rauw Alejandro | alberto_gu (1), GabredMared (4) |
+| Enslaved | sdecandelario (1), Lonsonxd (1) |
+| Blondie | Nubis84 (1), GabredMared (2) |
 | Danny Brown | EliasJ72 (9), alberto_gu (1) |
+| Perfume Genius | Frikomid (13), GabredMared (2) |
+| Aphex Twin | EliasJ72 (1), Music-is-Crap (25) |
+| Charly García | alberto_gu (55), GabredMared (15) |
+| Linkin Park | sdecandelario (2), EliasJ72 (2) |
+| King Crimson | EliasJ72 (1), GabredMared (9), Lonsonxd (7) |
+| Extremoduro | Nubis84 (17), Lonsonxd (1) |
+| Ethel Cain | paqueradejere (2), bloodinmyhand (62), Frikomid (4) |
+| Dream Theater | Nubis84 (5), Lonsonxd (1) |
+| Korn | BipolarMuzik (3), EliasJ72 (2) |
+| Judas Priest | sdecandelario (14), Music-is-Crap (9), Lonsonxd (1) |
+| Björk | Frikomid (2), GabredMared (2) |
+| The Chemical Brothers | sdecandelario (2), Music-is-Crap (1) |
+| Sonic Youth | alberto_gu (1), Lonsonxd (2) |
+| Alcest | BipolarMuzik (11), Lonsonxd (1) |
+| Papa Roach | BipolarMuzik (1), Music-is-Crap (3) |
+| Black Country, New Road | bloodinmyhand (6), GabredMared (104) |
+| Silvio Rodríguez | Frikomid (4), GabredMared (1) |
+| The Smashing Pumpkins | Rocky_stereo (1), Lonsonxd (1) |
+| A$AP Rocky | EliasJ72 (1), Rocky_stereo (35), Frikomid (1) |
+| Addison Rae | Frikomid (1), GabredMared (1) |
+| The Horrors | sdecandelario (1), Frikomid (16) |
+| Storm Corrosion | Music-is-Crap (6), Lonsonxd (1) |
+| Kanye West | EliasJ72 (4), alberto_gu (2) |
+| Lady Gaga | Frikomid (10), GabredMared (1) |
+| Los Piratas | Nubis84 (1), Lonsonxd (1) |
+| Jeff Buckley | Rocky_stereo (1), GabredMared (1), Lonsonxd (1) |
+| Queen | alberto_gu (1), Lonsonxd (2) |
+| Weyes Blood | alberto_gu (2), GabredMared (2) |
+| SILVIO RODRÍGUEZ | Frikomid (7), GabredMared (1) |
+| Gustavo Cerati | EliasJ72 (1), GabredMared (1) |
+| David Bowie | Nubis84 (1), Frikomid (4), GabredMared (1), Lonsonxd (33) |
+| Hora Zulu | Nubis84 (1), Lonsonxd (16) |
+| Limp Bizkit | BipolarMuzik (1), EliasJ72 (3) |
+| Justice | sdecandelario (2), alberto_gu (1) |
+| Charli XCX | EliasJ72 (10), Frikomid (3), GabredMared (5) |
+| JPEGMAFIA | EliasJ72 (2), alberto_gu (1) |
+| Tyler, the Creator | alberto_gu (1), GabredMared (1) |
+| Shura | Frikomid (1), GabredMared (2) |
+| Bad Bunny | Rocky_stereo (13), Frikomid (2), GabredMared (8) |
+| The Cure | GabredMared (1), Lonsonxd (20) |
+| Swans | bloodinmyhand (38), GabredMared (1) |
+| Radiohead | GabredMared (1), Lonsonxd (1) |
+| Daddy Yankee | alberto_gu (4), GabredMared (1) |
+| Tainy | Rocky_stereo (1), GabredMared (3) |
+| Brian Eno | GabredMared (1), Lonsonxd (1) |
+| Squid | sdecandelario (1), Frikomid (1) |
+| Jimi Hendrix | Nubis84 (6), Lonsonxd (1) |
+| Daft Punk | sdecandelario (2), EliasJ72 (1) |
+| FKA twigs | bloodinmyhand (11), EliasJ72 (9), Frikomid (34), Music-is-Crap (10) |
+| Robe | Nubis84 (7), Lonsonxd (3) |
+| The Doors | Rocky_stereo (1), Lonsonxd (2) |
+| Fontaines D.C. | paqueradejere (1), sdecandelario (1) |
+| Katatonia | BipolarMuzik (3), Lonsonxd (7) |
+| The Strokes | Nubis84 (1), GabredMared (12) |
+| Porcupine Tree | BipolarMuzik (6), Frikomid (14), Lonsonxd (7) |
+| Soundgarden | sdecandelario (1), Lonsonxd (4) |
+| IDLES | paqueradejere (11), sdecandelario (4) |
+| Lana Del Rey | Frikomid (2), alberto_gu (1), GabredMared (10) |
+| Nine Inch Nails | EliasJ72 (1), Lonsonxd (2) |
+| Siouxsie and the Banshees | Frikomid (1), GabredMared (1) |
+| Pink Floyd | BipolarMuzik (11), Rocky_stereo (9), Lonsonxd (5) |
+| Faithless | sdecandelario (1), alberto_gu (1) |
+| Los Suaves | Nubis84 (1), Lonsonxd (6) |
 ## Top 10 para paqueradejere
 
 *Top Artistas*
 | Artista | Reproducciones |
 |---------|----------------|
+| DIIV | 38 |
+| Unwound | 36 |
+| Mogwai | 25 |
+| Trent Reznor & Atticus Ross | 23 |
+| Leaving Laurel | 21 |
+| Claire Rousay | 20 |
+| Daisuke Asakura | 20 |
+| M83 | 13 |
+| Radio Slave | 13 |
+| Fleeting Joys | 12 |
 
 *Top Canciones*
 | Canción | Artista | Álbum | Reproducciones |
 |---------|----------|-------|----------------|
+| Pale Vegan Hip Pain | Mogwai | The Bad Fire | 3 |
+| Fanzine Made Of Flesh | Mogwai | The Bad Fire | 3 |
+| What Kind Of Mix Is This? | Mogwai | The Bad Fire | 3 |
+| Hi Chaos | Mogwai | The Bad Fire | 3 |
+| God Gets You Back | Mogwai | The Bad Fire | 3 |
+| i | Claire Rousay | The Bloody Lady | 3 |
+| Beauties Can Die | M83 | Dead Cities, Red Seas & Lost Ghosts | 2 |
+| everything perfect is already here | Claire Rousay | everything perfect is already here | 2 |
+| it feels foolish to care | Claire Rousay | everything perfect is already here | 2 |
+| Fact Boy | Mogwai | The Bad Fire | 2 |
 
 ## Top 10 para sdecandelario
 
@@ -170,10 +226,30 @@
 *Top Artistas*
 | Artista | Reproducciones |
 |---------|----------------|
+| Extremoduro | 17 |
+| Robe | 7 |
+| Jimi Hendrix | 6 |
+| Dream Theater | 5 |
+| Nick Cave & the Bad Seeds | 3 |
+| Dünedain | 3 |
+| Sôber | 2 |
+| Nile Rodgers | 2 |
+| John Williams | 2 |
+| David Bowie | 1 |
 
 *Top Canciones*
 | Canción | Artista | Álbum | Reproducciones |
 |---------|----------|-------|----------------|
+| Dulce introducción al caos | Extremoduro | La ley innata | 4 |
+| Segundo Movimiento: Lo de Fuera | Extremoduro | La ley innata | 3 |
+| Red Right Hand (2011 Remaster) | Nick Cave & the Bad Seeds |  | 2 |
+| Axel F (feat. Richard Hilton) | Nile Rodgers |  | 2 |
+| Primer movimiento: el sueño | Extremoduro | La ley innata | 2 |
+| Cuarto Movimiento: La Realidad | Extremoduro | La ley innata | 2 |
+| A Broken Man (Official Visualizer) | Dream Theater |  | 2 |
+| Midnight Messiah | Dream Theater | Parasomnia | 2 |
+| Ziggy Stardust | David Bowie | The Rise and Fall of Ziggy Stardust and the Spiders From Mars | 1 |
+| Buscando Gloria | Sôber | Synthesis | 1 |
 
 ## Top 10 para BipolarMuzik
 
@@ -212,7 +288,7 @@
 |---------|----------------|
 | BRUIT ≤ | 375 |
 | Ethel Cain | 62 |
-| Swans | 39 |
+| Swans | 38 |
 | FKA twigs | 11 |
 | Black Country, New Road | 6 |
 | This Is The Glasshouse | 2 |
@@ -392,7 +468,7 @@
 |---------|----------------|
 | Pablo Milanés | 185 |
 | Black Country, New Road | 104 |
-| Arcangelo Corelli | 66 |
+| Arcangelo Corelli | 71 |
 | Charles Mingus | 51 |
 | Antonio Vivaldi | 36 |
 | smokedope2016 | 30 |
