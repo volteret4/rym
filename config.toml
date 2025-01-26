@@ -27,8 +27,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Semanales", URL = "/posts/", HasChildren = true, Limit = 54},
-        {Name = "Mensuales", URL = "/mensual/", HasChildren = true, Limit = 12},
+        {Name = "Semanales", URL = "/posts/", HasChildren = true, Limit = 5},
+        {Name = "Mensuales", URL = "/mensual/", HasChildren = true, Limit = 5},
         {Name = "Anuales", URL = "/anual/", HasChildren = true, Limit = 5},
     ]
 
@@ -112,5 +112,5 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [taxonomies]
     series = 'series'
     tags = 'tags'
-#    mensual = 'mensual'
-#    anual = 'anual'
+    mensual = 'mensual'
+    anual = 'anual'
