@@ -1,9 +1,10 @@
 +++
 Title = "Diciembre"
 Description = "estadisticas mensuales"
-Tags = ["rym"]
-Categories = ["rym"]
+Tags = ["rym", "mensual"]
+Categories = ["mensual"]
 menu = "main"
+mensual = true
 +++
 # Estadísticas semanales en Last.fm
 
