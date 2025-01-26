@@ -1,0 +1,20 @@
+/* Empty css file that users can override in their own /assets/css/custom.css file */
+/* In your custom.css file */
+@media screen and (min-width: 100em) {
+    .article-toc {
+        width: 2.5em; /* Reduce el ancho del TOC */
+    }
+    .container.content {
+        max-width: calc(100% - 35em); /* Expande el contenido principal */
+    }
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+table.four-columns th:nth-child(1) { width: 30%; }
+table.four-columns th:nth-child(2) { width: 15%; }
+table.four-columns th:nth-child(3) { width: 25%; }
+table.four-columns th:nth-child(4) { width: 30%; }

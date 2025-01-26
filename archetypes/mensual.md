@@ -1,8 +1,7 @@
 +++
-Description = "estadisticas semanales"
+Description = "estadisticas mensuales"
 Tags = ["rym"]
-Categories = ["rym"]
+Categories = ["mensual"]
 menu = "main"
-tipo
 +++
 <!--more-->
