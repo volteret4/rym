@@ -4,7 +4,7 @@ Description = "estadisticas mensuales"
 Tags = ["rym", "mensual"]
 Categories = ["mensual"]
 #menu = "main"
-mensual = true
+series = "mensual"
 +++
 # Estadísticas semanales en Last.fm
 
