@@ -3,7 +3,7 @@ Title = "Diciembre"
 Description = "estadisticas mensuales"
 Tags = ["rym", "mensual"]
 Categories = ["mensual"]
-menu = "main"
+#menu = "main"
 mensual = true
 +++
 # Estadísticas semanales en Last.fm
