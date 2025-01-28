@@ -1,4 +1,4 @@
-baseURL = "https://volteret4.github.io/maricarmen-y-sus-muniecos"
+baseURL = "https://volteret4.github.io/rym"
 languageCode = "es-es"
 theme = "poison"
 paginate = 10
@@ -29,8 +29,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Semanales", URL = "/semanal/", HasChildren = true, Limit = 5},
 	{Name = "Graficos", URL = "/estadisticas/", HasChildren = true, Limit =5},
-        {Name = "Mensuales", URL = "/rym//mensual/", HasChildren = true, Limit = 5},
-        {Name = "Anuales", URL = "/rym/anual/", HasChildren = true, Limit = 5},
+        {Name = "Mensuales", URL = "/mensual/", HasChildren = true, Limit = 5},
+        {Name = "Anuales", URL = "/anual/", HasChildren = true, Limit = 5},
 
     ]
 
