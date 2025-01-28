@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>anual on </title>
-    <link>https://volteret4.github.io/series/anual/</link>
+    <link>https://volteret4.github.io/rym/series/anual/</link>
     <description>Recent content in anual on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="https://volteret4.github.io/series/anual/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language><atom:link href="https://volteret4.github.io/rym/series/anual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024</title>
-      <link>https://volteret4.github.io/anual/2024/</link>
+      <link>https://volteret4.github.io/rym/anual/2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://volteret4.github.io/anual/2024/</guid>
+      <guid>https://volteret4.github.io/rym/anual/2024/</guid>
       <description></description>
     </item>
     
