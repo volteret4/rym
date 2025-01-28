@@ -29,7 +29,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "Semanales", URL = "../../semanal/", HasChildren = true, Limit = 5},
-	    {Name = "Graficos", URL = "../../estadisticas/", HasChildren = true, Limit =5},
+	    {Name = "Graficos", URL = "/rym/estadisticas/", HasChildren = true, Limit =5},
         {Name = "Mensuales", URL = "rym/mensual/", HasChildren = true, Limit = 5},
         {Name = "Anuales", URL = "anual/", HasChildren = true, Limit = 5},
     ]
