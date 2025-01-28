@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://volteret4.github.io/rym/</loc>
+  </url><url>
     <loc>https://volteret4.github.io/rym/mensual/20-04/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/mensual/24-10/</loc>
@@ -132,17 +134,15 @@
   </url><url>
     <loc>https://volteret4.github.io/rym/series/anual/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/anual/</loc>
+    <loc>https://volteret4.github.io/rym/rym/anual/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/estadisticas/</loc>
+    <loc>https://volteret4.github.io/rym/rym/estadisticas/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/</loc>
+    <loc>https://volteret4.github.io/rym/rym/mensual/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/</loc>
+    <loc>https://volteret4.github.io/rym/rym/semanal/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/tags/rym/</loc>
-  </url><url>
-    <loc>https://volteret4.github.io/rym/semanal/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/series/</loc>
   </url><url>
