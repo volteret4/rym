@@ -12,14 +12,14 @@ menu = "main"
 ![canciones_usuarios_bar1](/graficos/26-01-25/canciones_usuarios_bar.png)
 
 
-![usuarios_coincidencias3](graficos/26-01-25/usuarios_coincidencias.png)
+![usuarios_coincidencias3](graficos/26-01-25/usuarios_coincidencias_apiladas.png)
 
 
-[![usuarios_coincidencias3](/graficos/26-01-25/usuarios_coincidencias.png)]
+![usuarios_coincidencias3](/graficos/26-01-25/usuarios_coincidencias_apiladas.png)
 
 
 
-[![usuarios_coincidencias4](graficos/26-01-25/usuarios_coincidencias.png)]
+![usuarios_coincidencias4](../graficos/26-01-25/usuarios_coincidencias_apiladas.png)
 
 
 
