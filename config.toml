@@ -17,8 +17,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     #hideToc = true
     CSS = "css/custom.css"
     
-    relativeURLs = true
-    canonifyURLs = true
+    #relativeURLs = true
+    #canonifyURLs = true
     front_page_content = ["semanal"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
