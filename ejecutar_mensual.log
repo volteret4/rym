@@ -1,0 +1,12 @@
+nohup: no se tendrá en cuenta la entrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 1: import: orden no encontrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 2: from: orden no encontrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 3: from: orden no encontrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 4: import: orden no encontrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 5: import: orden no encontrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 6: import: orden no encontrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 7: from: orden no encontrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 8: import: orden no encontrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 9: import: orden no encontrada
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 15: error sintáctico cerca del elemento inesperado `API_KEY'
+../../hugo_scripts/blog/RYM/blog_rym_mensual.py: línea 15: `API_KEY = os.getenv('LASTFM_API_KEY')'
