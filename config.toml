@@ -1,4 +1,4 @@
-baseURL = "https://volteret4.github.io/rym/"
+baseURL = "https://volteret4.github.io/rym"
 languageCode = "es-es"
 theme = "poison"
 paginate = 10
