@@ -1,5 +1,5 @@
 +++
-title = "ejemplo"
+Title = "Graficos álbumes 26-01-25"
 Description = "estadisticas semanales"
 Tags = ["rym", "estadisticas"]
 Categories = ["rym"]

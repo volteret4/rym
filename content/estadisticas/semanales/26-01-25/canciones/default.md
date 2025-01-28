@@ -1,12 +1,12 @@
 +++
-title = "/home/pi/hugo/web/rym/content/estadisticas/26-01-25/canciones/default.md"
+title = "Gráficos canciones 26-01-25"
 Description = "estadisticas semanales"
-Tags = ["rym", "grafico_canciones"]
-Categories = ["rym"]
+Tags = ["rym", "grafico", "canciones"]
+Categories = ["estadisticas"]
 menu = "main"
 +++
 <!--more-->
-![canciones_bar](/rym/graficos/canciones/canciones_bar.png)
+![canciones_bar](/rym/graficos/semanales/26-01-25/canciones/canciones_bar.png)
 
 ![usuarios_coincidencias](/rym/graficos/canciones/usuarios_coincidencias.png)
 
