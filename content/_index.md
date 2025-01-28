@@ -1,5 +1,5 @@
 +++
 title = "inicio"
 menu = "main"
-url = "/rym/""
+url = "/rym/"
 +++
