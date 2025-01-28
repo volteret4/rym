@@ -1,4 +1,0 @@
-+++
-title = "inicio"
-url = "/mensual/"
-+++
