@@ -1,6 +1,7 @@
 +++
+title = "ejemplo"
 Description = "estadisticas mensuales"
-Tags = ["rym"]
+Tags = ["rym", "mensual"]
 Categories = ["mensual"]
 menu = "main"
 +++

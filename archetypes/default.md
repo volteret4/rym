@@ -1,8 +1,8 @@
 +++
+title = "ejemplo"
 Description = "estadisticas semanales"
-Tags = ["rym"]
+Tags = ["rym", "tag1"]
 Categories = ["rym"]
 menu = "main"
-tipo
 +++
 <!--more-->
