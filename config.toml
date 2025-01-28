@@ -17,7 +17,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     #hideToc = true
     CSS = "css/custom.css"
 
-    front_page_content = ["posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    front_page_content = ["posts", "mensual", "anual"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
     # Menu dict keys:
