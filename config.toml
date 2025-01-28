@@ -1,4 +1,4 @@
-baseURL = "https://volteret4.github.io/rym"
+baseURL = "https://volteret4.github.io/rym/"
 languageCode = "es-es"
 theme = "poison"
 paginate = 10
@@ -16,8 +16,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
     #hideToc = true
     CSS = "css/custom.css"
-    #relativeURLs = true
-
+    
+    relativeURLs = true
+    canonifyURLs = true
     front_page_content = ["semanal"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
@@ -26,13 +27,30 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # URL:          The directory relative to the content directory.
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
-    menu = [
-        {Name = "Semanales", URL = "/semanal/", HasChildren = true, Limit = 5},
-	    {Name = "Graficos", URL = "/estadisticas/", HasChildren = true, Limit =5},
-        {Name = "Mensuales", URL = "/rym/mensual/", HasChildren = true, Limit = 5},
-        {Name = "Anuales", URL = "/rym/anual/", HasChildren = true, Limit = 5},
+    #menu = [
+    #    {Name = "Semanales", URL = "/semanal/", HasChildren = true, Limit = 5},
+	#    {Name = "Graficos", URL = "/estadisticas/", HasChildren = true, Limit =5},
+    #    {Name = "Mensuales", URL = "/rym/mensual/", HasChildren = true, Limit = 5},
+    #    {Name = "Anuales", URL = "/rym/anual/", HasChildren = true, Limit = 5},
+#    ]
 
-    ]
+    [menu]
+    [[menu.main]]
+        name = "Semanales"
+        url = "/semanal/"
+        weight = 10
+    [[menu.main]]
+        name = "Graficos"
+        url = "/estadisticas/"
+        weight = 20
+    [[menu.main]]
+        name = "Mensuales"
+        url = "/mensual/"
+        weight = 30
+    [[menu.main]]
+        name = "Anuales"
+        url = "/anual/"
+        weight = 40
 
     # Links to your socials.  Comment or delete any you don't need/use. 
     discord_url = "https://discordapp.com/users/808775299978231808"
