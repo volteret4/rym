@@ -16,7 +16,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
     #hideToc = true
     CSS = "css/custom.css"
-    relativeURLs = true
+    #relativeURLs = true
 
     front_page_content = ["semanal"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
