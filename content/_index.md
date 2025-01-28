@@ -1,3 +1,4 @@
 +++
-title= "Inicio"
+title = "Inicio"
+menu = "main"
 +++
