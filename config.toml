@@ -28,8 +28,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "Semanales", URL = "/rym/semanal/", HasChildren = true, Limit = 5},
-	    {Name = "Graficos", URL = "/rym/estadisticas/", HasChildren = true, Limit =5},
+        {Name = "Semanales", URL = "/semanal/", HasChildren = true, Limit = 5},
+	    {Name = "Graficos", URL = "estadisticas/", HasChildren = true, Limit =5},
         {Name = "Mensuales", URL = "/rym/mensual/", HasChildren = true, Limit = 5},
         {Name = "Anuales", URL = "/rym/anual/", HasChildren = true, Limit = 5},
     ]
