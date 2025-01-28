@@ -1,6 +1,6 @@
 +++
 title = "26-01-25 gráficos"
-Description = "estadisticas semanales"
+Description = "estadisticas semanales graficos"
 Tags = ["rym"]
 Categories = ["estadisticas"]
 menu = "main"
