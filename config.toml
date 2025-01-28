@@ -1,5 +1,5 @@
-baseURL = "https://volteret4.github.io/rym"
-languageCode = "es-es"
+baseURL = "https://volteret4.github.io/rym/"
+languageCode = "en-us"
 theme = "poison"
 paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
