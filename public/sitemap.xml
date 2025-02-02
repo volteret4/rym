@@ -2,29 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://volteret4.github.io/rym/mensual/20-04/</loc>
+    <loc>https://volteret4.github.io/rym/posts/02-02-25s/</loc>
+    <lastmod>2025-02-02T20:03:21+01:00</lastmod>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/</loc>
+    <lastmod>2025-02-02T20:03:21+01:00</lastmod>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/posts/</loc>
+    <lastmod>2025-02-02T20:03:21+01:00</lastmod>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/20-04/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/mensual/24-10/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-07/</loc>
+    <loc>https://volteret4.github.io/rym/20-07/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-02/</loc>
+    <loc>https://volteret4.github.io/rym/20-02/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-03/</loc>
+    <loc>https://volteret4.github.io/rym/20-03/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-05/</loc>
+    <loc>https://volteret4.github.io/rym/20-05/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-06/</loc>
+    <loc>https://volteret4.github.io/rym/20-06/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-08/</loc>
+    <loc>https://volteret4.github.io/rym/20-08/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-09/</loc>
+    <loc>https://volteret4.github.io/rym/20-09/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-10/</loc>
+    <loc>https://volteret4.github.io/rym/20-10/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-11/</loc>
+    <loc>https://volteret4.github.io/rym/20-11/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/mensual/20-12/</loc>
+    <loc>https://volteret4.github.io/rym/20-12/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/anual/2024/</loc>
   </url><url>
@@ -124,6 +133,8 @@
   </url><url>
     <loc>https://volteret4.github.io/rym/mensual/25-01/</loc>
   </url><url>
+    <loc>https://volteret4.github.io/rym/semanal/02-02-25/</loc>
+  </url><url>
     <loc>https://volteret4.github.io/rym/semanal/26-01-25/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/tags/anual/</loc>
@@ -136,11 +147,33 @@
   </url><url>
     <loc>https://volteret4.github.io/rym/tags/canciones/</loc>
   </url><url>
+    <loc>https://volteret4.github.io/rym/tags/datos/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/estadisticas/mensuales/24-12/artistas/default/</loc>
+  </url><url>
     <loc>https://volteret4.github.io/rym/tags/estadisticas/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/estadisticas/</loc>
   </url><url>
+    <loc>https://volteret4.github.io/rym/estadisticas/mensual/22-01/albumes/default/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/estadisticas/mensual/22-04/albumes/default/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/estadisticas/mensual/22-04/canciones/default/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/estadisticas/mensual/22-12/albumes/default/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/estadisticas/mensual/22-12/canciones/default/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/estadisticas/mensual/24-10/albumes/default/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/estadisticas/mensual/24-11/albumes/default/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/estadisticas/mensual/24-12/albumes/default/</loc>
+  </url><url>
     <loc>https://volteret4.github.io/rym/tags/grafico/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/tags/grafico_albums/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/estadisticas/semanales/26-01-25/albumes/default/</loc>
   </url><url>
@@ -148,15 +181,17 @@
   </url><url>
     <loc>https://volteret4.github.io/rym/estadisticas/semanales/26-01-25/canciones/default/</loc>
   </url><url>
-    <loc>https://volteret4.github.io/rym/</loc>
-  </url><url>
     <loc>https://volteret4.github.io/rym/mensual/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/tags/rym/</loc>
   </url><url>
+    <loc>https://volteret4.github.io/rym/tags/semanal/</loc>
+  </url><url>
     <loc>https://volteret4.github.io/rym/semanal/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/series/</loc>
+  </url><url>
+    <loc>https://volteret4.github.io/rym/tags/tag1/</loc>
   </url><url>
     <loc>https://volteret4.github.io/rym/tags/</loc>
   </url>

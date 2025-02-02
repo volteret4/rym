@@ -34,6 +34,15 @@
     </item>
     
     <item>
+      <title>datos</title>
+      <link>https://volteret4.github.io/rym/tags/datos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://volteret4.github.io/rym/tags/datos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>estadisticas</title>
       <link>https://volteret4.github.io/rym/tags/estadisticas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -52,11 +61,38 @@
     </item>
     
     <item>
+      <title>grafico_albums</title>
+      <link>https://volteret4.github.io/rym/tags/grafico_albums/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://volteret4.github.io/rym/tags/grafico_albums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>rym</title>
       <link>https://volteret4.github.io/rym/tags/rym/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://volteret4.github.io/rym/tags/rym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semanal</title>
+      <link>https://volteret4.github.io/rym/tags/semanal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://volteret4.github.io/rym/tags/semanal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag1</title>
+      <link>https://volteret4.github.io/rym/tags/tag1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://volteret4.github.io/rym/tags/tag1/</guid>
       <description></description>
     </item>
     
