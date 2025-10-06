@@ -12,22 +12,21 @@ date = "2025-10-03"
 ### Juanse
 
 {{< spotify type="artist" id="3WrFJ7ztbogyGnTHbHJFl2" width="100%" height="250" >}}
-
-- Alcest
-- Mike Oldfield
+{{< spotify type="artist" id="0d5ZwMtCer8dQdOPAgWhe7" width="100%" height="250" >}}
+{{< spotify type="artist" id="562Od3CffWedyz2BbeYWVn" width="100%" height="250" >}}
 
 ### Mauro
 
-- T.Rex
+{{< spotify type="artist" id="3dBVyJ7JuOMt4GE9607Qin" width="100%" height="250" >}}
 
 ### Pollo
 
-- Nine Inch Nailsº
+{{< spotify type="artist" id="0X380XXQSNBYuleKzav5UO" width="100%" height="250" >}}
 
 ### Rodolfo
 
-- Venetian Snares
+{{< spotify type="artist" id="7eKIP3IoPoUAZgZuvMM6hf" width="100%" height="250" >}}
 
 ### Sergio
 
-- The Prodigy
+{{< spotify type="artist" id="4k1ELeJKT1ISyDv8JivPpB" width="100%" height="250" >}}

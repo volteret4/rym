@@ -10,7 +10,6 @@ Tags = ["rym", "preguntas"]
 ### Armand Wave Transistor
 
 {{< youtubepl OLAK5uy_k9lJ0vAiBe6GAp84-nHH6s-oN1tU0obc4 >}}
-[Isotope217 en spotify](https://open.spotify.com/album/6ulBhXhP2iim3qH6VpnAnk?si=32tahJgmStu-a50pnBJEhA)
 
 ### Juanse
 
