@@ -2,8 +2,6 @@
 title = "Ese artista que como oigas una canción... tienes que oir otra"
 Description = "..., y otra... y otra.... Cada vez más y más abajo en la espiral."
 Tags = ["rym", "preguntas"]
-Categories = ["rym", "preguntas"]
-menu = "main"
 +++
 
 ### JUANSE
