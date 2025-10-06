@@ -19,7 +19,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
     #relativeURLs = true
     #canonifyURLs = true
-    front_page_content = ["Preguntas"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    #front_page_content = ["Preguntas"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
     # Menu dict keys:
