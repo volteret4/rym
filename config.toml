@@ -13,8 +13,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     #brand_image = '/images/brand_image.jpg'    # path to the image shown in the sidebar
     description = "Hispano" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
-    #hideToc = true
+    favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+    hideToc = true
     CSS = "css/custom.css"
 
     #relativeURLs = true
@@ -28,7 +28,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "Preguntas", URL = "preguntas/", HasChildren = false, Limit = 5},
+        {Name = "Recomendaciones", URL = "preguntas/", HasChildren = true, Limit = 5},
     ]
 
 
