@@ -7,6 +7,10 @@ Tags = ["rym", "preguntas"]
 #menu = "main"
 +++
 
+### Armand Wave Transistor
+
+https://open.spotify.com/track/2OxZ1x04P2K684Xnn4Huxg?si=66bpM5D7TH2owLVuPzbUDw
+
 ### JUANSE
 
 {{< youtube GXCh9OhDiCI >}}
