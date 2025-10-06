@@ -4,7 +4,7 @@ Description = "Recurso fácil pero efectivo. Bueno Bonito y Baraaaato señoooora
 date = "2025-10-01"
 Tags = ["rym", "preguntas"]
 Categories = ["rym", "preguntas"]
-menu = "main"
+#menu = "main"
 +++
 
 ### JUANSE
