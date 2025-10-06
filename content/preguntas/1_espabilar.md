@@ -9,7 +9,9 @@ Tags = ["rym", "preguntas"]
 
 ### Armand Wave Transistor
 
-https://open.spotify.com/track/2OxZ1x04P2K684Xnn4Huxg?si=66bpM5D7TH2owLVuPzbUDw
+{{< youtube BB6k_3lvgDQ >}}
+
+[spotify](https://open.spotify.com/track/2OxZ1x04P2K684Xnn4Huxg?si=66bpM5D7TH2owLVuPzbUDw)
 
 ### Juanse
 
