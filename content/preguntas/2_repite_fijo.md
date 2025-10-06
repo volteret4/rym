@@ -9,20 +9,20 @@ date = "2025-10-03"
 
 - Pink Floyd
 
-### JUANSE
+### Juanse
 
 - The Beatles
 - Alcest
 - Mike Oldfield
 
-### MAURO
+### Mauro
 
 - T.Rex
 
-### RODOLFO
+### Rodolfo
 
 - Venetian Snares
 
-### SERGIO
+### Sergio
 
 - The Prodigy

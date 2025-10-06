@@ -7,29 +7,29 @@ Tags = ["rym", "preguntas"]
 #menu = "main"
 +++
 
-### ARMAND WAVE TRANSISTOR
+### Armand Wave Transistor
 
 [Isotope217](https://open.spotify.com/album/6ulBhXhP2iim3qH6VpnAnk?si=32tahJgmStu-a50pnBJEhA)
 
-### JUANSE
+### Juanse
 
 {{< youtube IsjeTzINBcg >}}
 
 GoGoPenguin
 
-### MAURO
+### Mauro
 
 {{< youtube _zNX5D4YhLY >}}
 {{< youtube PesI5MrP1_g >}}
 
-### POLLO
+### Pollo
 
 {{< youtube v1VLZnBEw_M >}}
 
-### QUINTANA
+### Quintana
 
 - Marissa Nadler
 
-### SERGIO
+### Sergio
 
 [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi?si=39m3j-PQSp-9jm2s3tkkRQ)

@@ -7,7 +7,7 @@ Tags = ["rym", "preguntas"]
 #menu = "main"
 +++
 
-### MARCELO
+### Marcelo
 
 - Achille lauro
 - Ultimo
@@ -15,7 +15,7 @@ Tags = ["rym", "preguntas"]
 - K4OS
 - Matein
 
-### MAURO
+### Mauro
 
 - Artemas
 - Mareux

@@ -11,7 +11,7 @@ Tags = ["rym", "preguntas"]
 
 https://open.spotify.com/track/2OxZ1x04P2K684Xnn4Huxg?si=66bpM5D7TH2owLVuPzbUDw
 
-### JUANSE
+### Juanse
 
 {{< youtube GXCh9OhDiCI >}}
 
@@ -19,6 +19,8 @@ https://open.spotify.com/track/2OxZ1x04P2K684Xnn4Huxg?si=66bpM5D7TH2owLVuPzbUDw
 
 {{< youtube mhhFhUY1FAU >}}
 
-### SERGIO
+### Sergio
+
+{{< youtube PLF0yIDuA63HWQdVTo_KmdWjGw1TNm5ZbT >}}
 
 https://rateyourmusic.com/release/album/combichrist/what-the-f_k-is-wrong-with-you-people/
