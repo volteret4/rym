@@ -1,4 +1,0 @@
-+++
-title = "inicio"
-menu = "main"
-+++
