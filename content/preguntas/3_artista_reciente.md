@@ -10,8 +10,7 @@ Tags = ["rym", "preguntas"]
 ### Armand Wave Transistor
 
 {{< youtubepl OLAK5uy_k9lJ0vAiBe6GAp84-nHH6s-oN1tU0obc4 >}}
-[Isotope217](https://open.spotify.com/album/6ulBhXhP2iim3qH6VpnAnk?si=32tahJgmStu-a50pnBJEhA)
-{{< spotify type="album" id="6ulBhXhP2iim3qH6VpnAnk?si=32tahJgmStu-a50pnBJEhA" width="100%" height="250" >}}
+[Isotope217 en spotify](https://open.spotify.com/album/6ulBhXhP2iim3qH6VpnAnk?si=32tahJgmStu-a50pnBJEhA)
 
 ### Juanse
 
@@ -35,4 +34,4 @@ GoGoPenguin
 ### Sergio
 
 [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi?si=39m3j-PQSp-9jm2s3tkkRQ)
-{{< spotify type="album" id="3qa9pv6B0dmiBVETLQOCpi?si=39m3j-PQSp-9jm2s3tkkRQ" width="100%" height="250" >}}
+{{< spotify type="artist" id="3qa9pv6B0dmiBVETLQOCpi" width="100%" height="250" >}}

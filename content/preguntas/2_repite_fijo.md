@@ -19,6 +19,10 @@ date = "2025-10-03"
 
 - T.Rex
 
+### Pollo
+
+- Nine Inch Nails
+
 ### Rodolfo
 
 - Venetian Snares
