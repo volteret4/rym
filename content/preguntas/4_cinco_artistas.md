@@ -9,16 +9,17 @@ Tags = ["rym", "preguntas"]
 
 ### Marcelo
 
-- Achille lauro
-- Ultimo
-- Rose villain
+{{< spotify type="artist" id="0lI3rF4hi4op6UxqlLHPzv" width="100%" height="250" >}}
+{{< spotify type="artist" id="3hN3iJMbbBmqBSAMx5veDa" width="100%" height="250" >}}
+{{< spotify type="artist" id="2aya6KuqjXEhHBqYKsTPLs" width="100%" height="250" >}}
+
 - K4OS
 - Matein
 
 ### Mauro
 
-- Artemas
-- Mareux
-- Turnstile
-- Lobsterbomb
-- Kadavar
+{{< spotify type="artist" id="0PCCGZ0wGLizHt2KZ7hhA2" width="100%" height="250" >}}
+{{< spotify type="artist" id="7riQPkkGZBnTh9ve5qIhYo" width="100%" height="250" >}}
+{{< spotify type="artist" id="2qnpHrOzdmOo1S4ox3j17x" width="100%" height="250" >}}
+{{< spotify type="artist" id="2zBxQyNS9Ja2Y9YUbYiOOS" width="100%" height="250" >}}
+{{< spotify type="artist" id="0FfuujZJUa7Z2JzhhiPI2z" width="100%" height="250" >}}
