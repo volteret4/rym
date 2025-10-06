@@ -7,11 +7,12 @@ date = "2025-10-03"
 
 ### Armand Wave Transistor
 
-- Pink Floyd
+{{< spotify type="artist" id="0k17h0D3J5VfsdmQ1iZtE9" width="100%" height="250" >}}
 
 ### Juanse
 
-- The Beatles
+{{< spotify type="artist" id="3WrFJ7ztbogyGnTHbHJFl2" width="100%" height="250" >}}
+
 - Alcest
 - Mike Oldfield
 
@@ -21,7 +22,7 @@ date = "2025-10-03"
 
 ### Pollo
 
-- Nine Inch Nails
+- Nine Inch Nailsº
 
 ### Rodolfo
 

@@ -16,7 +16,7 @@ Tags = ["rym", "preguntas"]
 
 {{< youtube IsjeTzINBcg >}}
 
-GoGoPenguin
+{{< spotify type="artist" id="19f2JXwlRU26376TCKmp6L" width="100%" height="250" >}}
 
 ### Mauro
 
@@ -29,9 +29,8 @@ GoGoPenguin
 
 ### Quintana
 
-- Marissa Nadler
+{{< spotify type="artist" id="5zjaF8JUdylMWrA7AVo3hJ" width="100%" height="250" >}}
 
 ### Sergio
 
-[Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi?si=39m3j-PQSp-9jm2s3tkkRQ)
 {{< spotify type="artist" id="3qa9pv6B0dmiBVETLQOCpi" width="100%" height="250" >}}
