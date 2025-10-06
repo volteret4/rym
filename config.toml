@@ -19,7 +19,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
     #relativeURLs = true
     #canonifyURLs = true
-    #front_page_content = ["Preguntas"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    front_page_content = ["preguntas"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
     # Menu dict keys:
@@ -27,9 +27,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # URL:          The directory relative to the content directory.
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
-    # menu = [
-    #     {Name = "Preguntas", URL = "preguntas/", HasChildren = true, Limit = 5},
-    # ]
+    menu = [
+        {Name = "Preguntas", URL = "preguntas/", HasChildren = false, Limit = 5},
+    ]
 
 
 
@@ -57,7 +57,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml
     rss_icon = true
     # Which section the RSS icon links to, defaults to all content. See https://gohugo.io/templates/rss/#section-rss
-    rss_section = "posts"
+    rss_section = "preguntas"
 
     # Hex colors for your sidebar.
     moon_sun_background_color = "#515151"   # default is #515151
