@@ -3,9 +3,6 @@ title = "¿Qué te ayuda a espabilarte rápido cuando llegas tarde?"
 Description = "Recurso fácil pero efectivo. Bueno Bonito y Baraaaato señoooora. Ni lo pienses, debe salir automático"
 Tags = ["rym", "preguntas"]
 Categories = ["rym", "preguntas"]
-#menu = "main"
-hideToc = "false"
-series = "anual"
 +++
 
 ### JUANSE
