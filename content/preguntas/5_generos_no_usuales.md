@@ -31,7 +31,7 @@ Tags = ["rym", "preguntas"]
 
 {{< youtubepl LoO-x0Pt0RQgyiePG1-EpWrvCK1YQC12X >}}
 
-{{< youtubepl PLNrotoZZ8BaouNABcO_A9Xkn_Nkz0PT11&pp=0gcJCaIEOCosWNin >}}
+{{< youtubepl PLNrotoZZ8BaouNABcO_A9Xkn_Nkz0PT11 >}}
 
 {{< youtubepl PLGBxrVLRuObXgyLlZgIqtXE4wLMFry5kw >}}
 
