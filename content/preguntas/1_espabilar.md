@@ -7,7 +7,7 @@ Tags = ["rym", "preguntas"]
 #menu = "main"
 +++
 
-### Armand Wave Transistor
+### Armand_Wave_Transistor
 
 {{< youtube BB6k_3lvgDQ >}}
 

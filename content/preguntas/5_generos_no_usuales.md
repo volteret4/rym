@@ -19,7 +19,7 @@ Tags = ["rym", "preguntas"]
 
 {{< youtubepl PLaVctNLpRzKqtU0DP_xgD7QSUrCXCFHvc >}}
 
-### Julian G
+### JulianG
 
 {{< youtubepl PLQrCjqpo8BVQ2RwwmVwA-X6S3KaZW2d-7 >}}
 
@@ -52,7 +52,5 @@ Tags = ["rym", "preguntas"]
 {{< spotify type="album" id="4cgb23Oy5ebkgWq13amPx0" width="100%" height="250" >}}
 
 {{< spotify type="album" id="2Upqk0mMh9OMIVSj9F8Xzw" width="100%" height="250" >}}
-
-{{< spotify type="album" id="2FyPhYU7wHYvtWCdRZXOWp" width="100%" height="250" >}}
 
 {{< spotify type="album" id="2FyPhYU7wHYvtWCdRZXOWp" width="100%" height="250" >}}

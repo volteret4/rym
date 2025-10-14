@@ -5,7 +5,7 @@ Tags = ["rym", "preguntas"]
 date = "2025-10-03"
 +++
 
-### Armand Wave Transistor
+### Armand_Wave_Transistor
 
 {{< spotify type="artist" id="0k17h0D3J5VfsdmQ1iZtE9" width="100%" height="250" >}}
 

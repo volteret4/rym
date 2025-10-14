@@ -1,5 +1,5 @@
 +++
-title = "Comparte al menos un álbum|canción que saque toda tu rabia."
+title = "Comparte al menos un álbum o canción que saque toda tu rabia."
 Description = "De los que terminas cansado físicamente. (Queridos señores de corazón oscuro metal, no pongamos más de 378'3 periódica pura. parfavar)"
 date = "2025-10-13"
 Tags = ["rym", "preguntas"]
