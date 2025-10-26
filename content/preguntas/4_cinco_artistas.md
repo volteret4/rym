@@ -13,9 +13,6 @@ Tags = ["rym", "preguntas"]
 {{< spotify type="artist" id="3hN3iJMbbBmqBSAMx5veDa" width="100%" height="250" >}}
 {{< spotify type="artist" id="2aya6KuqjXEhHBqYKsTPLs" width="100%" height="250" >}}
 
-- K4OS
-- Matein
-
 ### Mauro
 
 {{< spotify type="artist" id="0PCCGZ0wGLizHt2KZ7hhA2" width="100%" height="250" >}}
