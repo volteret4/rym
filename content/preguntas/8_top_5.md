@@ -107,7 +107,7 @@ Tags = ["rym", "preguntas"]
 
 {{< youtubepl PL4-oCE2y-CrE1LA1_zjHWcWP82PPCngaH >}}
 
-{{< youtubepl <PLP1lC0FnuI0LXtUFPO35ibNwTM92Hn_SI >}}
+{{< youtubepl PLP1lC0FnuI0LXtUFPO35ibNwTM92Hn_SI >}}
 
 ### Sergio
 
