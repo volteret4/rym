@@ -49,13 +49,11 @@ Tags = ["rym", "preguntas"]
 
 {{< youtubepl OLAK5uy_mrJe_fnwPA72FFWcmv8ME3BQvXl2WTXyQ >}}
 
-
 ##### En Inglés
 
 {{< youtubepl PLI6kLIhBBwmRuVkqHGa37BJOTFcnYSvJJ >}}
 
 {{< youtubepl PLycVTiaj8OI-kwvNjgvvopMJt__x-y5mD >}}
-
 
 ##### En otros idiomas
 
@@ -98,6 +96,18 @@ Tags = ["rym", "preguntas"]
 {{< youtubepl PL4EItsGsS1SlQpi7Lxw_QvuLk46Psl0fI >}}
 
 {{< youtubepl PLrs2g03ILsleCw-Jnr_bdBoR_VD_ETkEb >}}
+
+### Rodolfo
+
+{{< youtubepl PLH9hNtw4UQoNYZnZ-Vc7ODcN8m-WYSZtW >}}
+
+{{< youtubepl PL_9gWeiShHFGZPQvoPc0vo7CtiQZUdM0R >}}
+
+{{< youtubepl PLjxklSUqLa4ZjgiS_rF3Gj7-mhQ3lM0L5 >}}
+
+{{< youtubepl PL4-oCE2y-CrE1LA1_zjHWcWP82PPCngaH >}}
+
+{{< youtubepl <PLP1lC0FnuI0LXtUFPO35ibNwTM92Hn_SI >}}
 
 ### Sergio
 
