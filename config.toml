@@ -16,7 +16,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     #brand_image = '/images/brand_image.jpg'    # path to the image shown in the sidebar
     description = "Hispano" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+    favicon = "skull.png"             # path to favicon (defaults to favicon.png)
     hideToc = true
     CSS = "css/custom.css"
 
