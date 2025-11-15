@@ -1,7 +1,7 @@
 +++
-title = "¿Qué espinita tienes clavada que no has podido ver y ya no será posible ver. Por ej Daft Punk. Si, os odiamos en silencio, desde el cariño, pero os odiamos. Daft Punk"
+title = "Cita una canción, o varias, de tu infancia/adolescencia que te transportan directamente a dichosos momentos"
 Description = "___"
-date = "2025-11-04"
+date = "2025-11-10"
 Tags = ["rym", "preguntas"]
 #Categories = ["rym", "preguntas"]
 #menu = "main"
